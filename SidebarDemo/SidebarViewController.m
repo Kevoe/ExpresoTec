@@ -7,7 +7,7 @@
 #import "PhotoViewController.h"
 
 @interface SidebarViewController ()
-@property (nonatomic, strong) NSArray *menuItems;
+@property NSArray *menuItems;
 @end
 
 @implementation SidebarViewController
@@ -25,7 +25,9 @@
 {
     [super viewDidLoad];
     
-    self.menuItems = @[@"expresotitle", @"valletitle", @"valle1", @"valle2", @"valle3", @"galeriastitle", @"sanjeronimo", @"cumbres", @"lincoln", @"sannicolastitle", @"sannicolas", @"guadalupetitle", @"contrylindavista", @"circuitotectitle", @"diurnotitle", @"garzasada", @"nocturnotitle", @"rutaA", @"rutaB", @"rutaC"];
+    
+    NSString *pathPlist = [[NSBundle mainBundle] pathForResource:@"Property List" ofType:@"plist"];
+    self.menuItems = [[NSArray alloc] initWithContentsOfFile: pathPlist];
 }
 
 - (void)didReceiveMemoryWarning
@@ -50,8 +52,7 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    NSString *CellIdentifier = [self.menuItems objectAtIndex:indexPath.row];
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell" forIndexPath:indexPath];
     
     return cell;
 }
@@ -66,6 +67,10 @@
     NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
     UINavigationController *destViewController = (UINavigationController *) segue.destinationViewController;
     destViewController.title = [[self.menuItems objectAtIndex:indexPath.row] capitalizedString];
+    
+    //NSLog(destViewController.title);
+    //NSDictionary *object = self.menuItems[indexPath.row];
+    //[destViewController setDetailItem:object];
 }
 
 @end
