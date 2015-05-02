@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>titulo</key>
+		<string>ExpresoTec</string>
+		<key>servicio</key>
+		<string>Expreso Tec</string>
+		<key>ruta</key>
+		<string>Valle 2</string>
+		<key>latitudInicial</key>
+		<string></string>
+		<key>longitudInicial</key>
+		<string></string>
+		<key>coordenadasTransporte</key>
+		<string></string>
+		<key>pings</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Tecnológico de Monterrey</string>
+				<key>latitud</key>
+				<string>25.652751</string>
+				<key>longitud</key>
+				<string>-100.290467</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lomas del Valle</string>
+				<key>latitud</key>
+				<string>25.650840</string>
+				<key>longitud</key>
+				<string>-100.378424</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Sierra Azul</string>
+				<key>latitud</key>
+				<string>25.638183</string>
+				<key>longitud</key>
+				<string>-100.380206</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>El Ángel (San Ángel)</string>
+				<key>latitud</key>
+				<string>25.635162</string>
+				<key>longitud</key>
+				<string>-100.370015</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Planetario Alfa</string>
+				<key>latitud</key>
+				<string>25.635151</string>
+				<key>longitud</key>
+				<string>-100.358632</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Alejandría</string>
+				<key>latitud</key>
+				<string>25.630531</string>
+				<key>longitud</key>
+				<string>-100.335510</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lampazos</string>
+				<key>latitud</key>
+				<string>25.645012</string>
+				<key>longitud</key>
+				<string>-100.338939</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<key>latitud</key>
+				<string>25.652095</string>
+				<key>longitud</key>
+				<string>-100.338885</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string></string>
+				<key>latitud</key>
+				<string></string>
+				<key>longitud</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
