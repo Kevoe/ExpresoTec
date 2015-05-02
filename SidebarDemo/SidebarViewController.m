@@ -5,6 +5,7 @@
 #import "SidebarViewController.h"
 #import "SWRevealViewController.h"
 #import "PhotoViewController.h"
+#import "NavViewController.h"
 
 @interface SidebarViewController ()
 @property NSArray *menuItems;
@@ -52,7 +53,8 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell" forIndexPath:indexPath];
+    NSDictionary *dictionAux = [self.menuItems objectAtIndex:indexPath.row];
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:[dictionAux objectForKey:@"tableIdentifier"] forIndexPath:indexPath];
     
     return cell;
 }
@@ -63,14 +65,10 @@
 
 
 - (void) prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    //Set the title of navigation bar by using the menu items
     NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
-    UINavigationController *destViewController = (UINavigationController *) segue.destinationViewController;
-    destViewController.title = [[self.menuItems objectAtIndex:indexPath.row] capitalizedString];
-    
-    //NSLog(destViewController.title);
-    //NSDictionary *object = self.menuItems[indexPath.row];
-    //[destViewController setDetailItem:object];
+    NSDictionary *object = self.menuItems[indexPath.row];
+    [[segue destinationViewController] setDetailItem:object];
 }
+
 
 @end

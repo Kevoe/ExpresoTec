@@ -27,6 +27,7 @@
 		FB431F201ADF468700697119 /* RightSideBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB431F1F1ADF468700697119 /* RightSideBarViewController.m */; };
 		FB431F221ADF505C00697119 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = FB431F211ADF505C00697119 /* menu.png */; };
 		FB431F241AE02FAA00697119 /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = FB431F231AE02FAA00697119 /* Property List.plist */; };
+		FBDC20BE1AE579050084E71F /* NavViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FBDC20BD1AE579050084E71F /* NavViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,8 @@
 		FB431F1F1ADF468700697119 /* RightSideBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RightSideBarViewController.m; sourceTree = "<group>"; };
 		FB431F211ADF505C00697119 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
 		FB431F231AE02FAA00697119 /* Property List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
+		FBDC20BC1AE579050084E71F /* NavViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavViewController.h; sourceTree = "<group>"; };
+		FBDC20BD1AE579050084E71F /* NavViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +119,8 @@
 				F4EECF2D177C99F400778578 /* MainViewController.m */,
 				F4EECF48177DF87700778578 /* SidebarViewController.h */,
 				F4EECF49177DF87700778578 /* SidebarViewController.m */,
+				FBDC20BC1AE579050084E71F /* NavViewController.h */,
+				FBDC20BD1AE579050084E71F /* NavViewController.m */,
 				FB431F1E1ADF468700697119 /* RightSideBarViewController.h */,
 				FB431F1F1ADF468700697119 /* RightSideBarViewController.m */,
 				F4EECF6C177FD51300778578 /* MapViewController.h */,
@@ -232,6 +237,7 @@
 			files = (
 				FB431F1A1ADEBDA500697119 /* SWRevealViewController.m in Sources */,
 				F4EECF1E177C99F400778578 /* main.m in Sources */,
+				FBDC20BE1AE579050084E71F /* NavViewController.m in Sources */,
 				F4EECF22177C99F400778578 /* AppDelegate.m in Sources */,
 				F4EECF2E177C99F400778578 /* MainViewController.m in Sources */,
 				F4EECF4A177DF87700778578 /* SidebarViewController.m in Sources */,

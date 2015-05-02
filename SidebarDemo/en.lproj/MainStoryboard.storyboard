@@ -147,6 +147,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="NKM-WD-KKc"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="valle2" id="jZJ-fH-1Pt">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -188,6 +191,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="3qX-6p-w4z"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="galeriastitle" id="fmk-Qg-3B8">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -223,6 +229,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="kcl-7M-JYI"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cumbres" id="lmS-GW-Rba">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -242,6 +251,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="691-N8-bAq"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="lincoln" id="Km8-6P-T4v">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -261,6 +273,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="q1R-BY-ceT"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="sannicolastitle" id="NOp-kM-dyX">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -296,6 +311,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="j1X-lc-bpj"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="guadalupetitle" id="i8V-sI-Mdx">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -331,6 +349,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="LxR-Go-9ZX"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="circuitotectitle" id="g0X-td-fvF">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -381,6 +402,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="KqU-EY-OaS"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="nocturnotitle" id="aVy-M4-Kjd">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -416,6 +440,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="Qyb-2d-bD3"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="rutaB" id="fzr-Ya-Uli">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -435,6 +462,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="653-td-bQO"/>
+                                </connections>
                             </tableViewCell>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="rutaC" id="Gcd-hW-126">
                                 <rect key="frame" x="0.0" y="22" width="320" height="44"/>
@@ -454,6 +484,9 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="EbF-MB-PL1" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="Pcq-iH-GqR"/>
+                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -540,10 +573,10 @@
             </objects>
             <point key="canvasLocation" x="71" y="-5"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Nav View Controller-->
         <scene sceneID="v0O-8x-RUR">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="EbF-MB-PL1" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="EbF-MB-PL1" customClass="NavViewController" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="TWU-PI-SM2">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -568,4 +601,7 @@
         <simulatedOrientationMetrics key="orientation"/>
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
+    <inferredMetricsTieBreakers>
+        <segue reference="3qX-6p-w4z"/>
+    </inferredMetricsTieBreakers>
 </document>

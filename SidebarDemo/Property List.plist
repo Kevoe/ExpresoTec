@@ -4,23 +4,23 @@
 <array>
 	<dict>
 		<key>tableIdentifier</key>
-		<string></string>
+		<string>expresotitle</string>
 	</dict>
 	<dict>
 		<key>tableIdentifier</key>
-		<string></string>
+		<string>valletitle</string>
 	</dict>
 	<dict>
 		<key>tableIdentifier</key>
-		<string></string>
+		<string>valle1</string>
 		<key>servicio</key>
 		<string>Expreso Tec</string>
 		<key>ruta</key>
 		<string>Valle 1</string>
 		<key>latitudInicial</key>
-		<string>25.652751</string>
+		<real>25.652751</real>
 		<key>longitudInicial</key>
-		<string>-100.290467</string>
+		<real>-100.290467</real>
 		<key>dispositivo</key>
 		<string></string>
 		<key>pings</key>
@@ -29,79 +29,87 @@
 				<key>titulo</key>
 				<string>Tecnológico de Monterrey</string>
 				<key>latitud</key>
-				<string>25.652751</string>
+				<real>25.652751</real>
 				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.290467</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
+				<string>Parque</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.65286</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.389715</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Sierra Azul</string>
+				<string>Río Sena</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.655436</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
+				<real>-100.385005</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
+				<string>Río Mississipi</string>
 				<key>latitud</key>
-				<string>25.635162</string>
+				<real>25.662823</real>
 				<key>longitud</key>
-				<string>-100.370015</string>
+				<real>-100.381955</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Planetario Alfa</string>
+				<string>Río Amazonas (Farmacias del Ahorro)</string>
 				<key>latitud</key>
-				<string>25.635151</string>
+				<real>25.66467</real>
 				<key>longitud</key>
-				<string>-100.358632</string>
+				<real>-100.381032</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Alejandría</string>
+				<string>Río Amazonas (Farmacia Benavides)</string>
 				<key>latitud</key>
-				<string>25.630531</string>
+				<real>25.657619</real>
 				<key>longitud</key>
-				<string>-100.335510</string>
+				<real>-100.3567</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lampazos</string>
+				<string>Av. Vasconcelos (Sierra Madre)</string>
 				<key>latitud</key>
-				<string>25.645012</string>
+				<real>25.652816</real>
 				<key>longitud</key>
-				<string>-100.338939</string>
+				<real>-100.356307</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<string>Pantepec y Tamuin</string>
 				<key>latitud</key>
-				<string>25.652095</string>
+				<real>25.65831</real>
 				<key>longitud</key>
-				<string>-100.338885</string>
+				<real>-100.345266</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>EGAP / EGADE</string>
+				<key>latitud</key>
+				<real>25.643717</real>
+				<key>longitud</key>
+				<real>-100.32613</real>
 			</dict>
 		</array>
 	</dict>
 	<dict>
 		<key>tableIdentifier</key>
-		<string></string>
+		<string>valle2</string>
 		<key>servicio</key>
 		<string>Expreso Tec</string>
 		<key>ruta</key>
 		<string>Valle 2</string>
 		<key>latitudInicial</key>
-		<string>25.652751</string>
+		<real>25.652751</real>
 		<key>longitudInicial</key>
-		<string>-100.290467</string>
+		<real>-100.290467</real>
 		<key>dispositivo</key>
 		<string></string>
 		<key>pings</key>
@@ -110,79 +118,79 @@
 				<key>titulo</key>
 				<string>Tecnológico de Monterrey</string>
 				<key>latitud</key>
-				<string>25.652751</string>
+				<real>25.652751</real>
 				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.290467</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Av. Lomas del Valle</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.65084</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.378424</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Sierra Azul</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.638183</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
+				<real>-100.380206</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>El Ángel (San Ángel)</string>
 				<key>latitud</key>
-				<string>25.635162</string>
+				<real>25.635162</real>
 				<key>longitud</key>
-				<string>-100.370015</string>
+				<real>-100.370015</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Planetario Alfa</string>
 				<key>latitud</key>
-				<string>25.635151</string>
+				<real>25.635151</real>
 				<key>longitud</key>
-				<string>-100.358632</string>
+				<real>-100.358632</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Alejandría</string>
 				<key>latitud</key>
-				<string>25.630531</string>
+				<real>25.630531</real>
 				<key>longitud</key>
-				<string>-100.335510</string>
+				<real>-100.33551</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Av. Lampazos</string>
 				<key>latitud</key>
-				<string>25.645012</string>
+				<real>25.645012</real>
 				<key>longitud</key>
-				<string>-100.338939</string>
+				<real>-100.338939</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
 				<key>latitud</key>
-				<string>25.652095</string>
+				<real>25.652095</real>
 				<key>longitud</key>
-				<string>-100.338885</string>
+				<real>-100.338885</real>
 			</dict>
 		</array>
 	</dict>
 	<dict>
 		<key>tableIdentifier</key>
-		<string></string>
+		<string>valle3</string>
 		<key>servicio</key>
 		<string>Expreso Tec</string>
 		<key>ruta</key>
-		<string>Valle 2</string>
+		<string>Valle 3</string>
 		<key>latitudInicial</key>
-		<string>25.652751</string>
+		<real>25.652751</real>
 		<key>longitudInicial</key>
-		<string>-100.290467</string>
+		<real>-100.290467</real>
 		<key>dispositivo</key>
 		<string></string>
 		<key>pings</key>
@@ -191,157 +199,99 @@
 				<key>titulo</key>
 				<string>Tecnológico de Monterrey</string>
 				<key>latitud</key>
-				<string>25.652751</string>
+				<real>25.652751</real>
 				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.290467</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
+				<string>Loma Larga</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.666344</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.338827</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Sierra Azul</string>
+				<string>EMIS (Farmacia Benavides)</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.669462</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
+				<real>-100.350245</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
+				<string>Del Carmen (Calle España)</string>
 				<key>latitud</key>
-				<string>25.635162</string>
+				<real>25.67236</real>
 				<key>longitud</key>
-				<string>-100.370015</string>
+				<real>-100.359792</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Planetario Alfa</string>
+				<string>Río Guadalquivir</string>
 				<key>latitud</key>
-				<string>25.635151</string>
+				<real>25.661855</real>
 				<key>longitud</key>
-				<string>-100.358632</string>
+				<real>-100.368388</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Alejandría</string>
+				<string>Río Serna</string>
 				<key>latitud</key>
-				<string>25.630531</string>
+				<real>25.652485</real>
 				<key>longitud</key>
-				<string>-100.335510</string>
+				<real>-100.371233</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lampazos</string>
+				<string>Bosques del Canadá</string>
 				<key>latitud</key>
-				<string>25.645012</string>
+				<real>25.650996</real>
 				<key>longitud</key>
-				<string>-100.338939</string>
+				<real>-100.374012</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<string>Sierra Nevada y María de los Ángeles</string>
 				<key>latitud</key>
-				<string>25.652095</string>
+				<real>25.644111</real>
 				<key>longitud</key>
-				<string>-100.338885</string>
-			</dict>
-		</array>
-	</dict>
-	<string>Galerias</string>
-	<dict>
-		<key>servicio</key>
-		<string>Expreso Tec</string>
-		<key>ruta</key>
-		<string>Valle 2</string>
-		<key>latitudInicial</key>
-		<string>25.652751</string>
-		<key>longitudInicial</key>
-		<string>-100.290467</string>
-		<key>dispositivo</key>
-		<string></string>
-		<key>pings</key>
-		<array>
-			<dict>
-				<key>titulo</key>
-				<string>Tecnológico de Monterrey</string>
-				<key>latitud</key>
-				<string>25.652751</string>
-				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.368933</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
+				<string>Matamoros</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.653386</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.399524</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Sierra Azul</string>
+				<string>Altamirano</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.656261</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
-				<key>latitud</key>
-				<string>25.635162</string>
-				<key>longitud</key>
-				<string>-100.370015</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Planetario Alfa</string>
-				<key>latitud</key>
-				<string>25.635151</string>
-				<key>longitud</key>
-				<string>-100.358632</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Alejandría</string>
-				<key>latitud</key>
-				<string>25.630531</string>
-				<key>longitud</key>
-				<string>-100.335510</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Av. Lampazos</string>
-				<key>latitud</key>
-				<string>25.645012</string>
-				<key>longitud</key>
-				<string>-100.338939</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
-				<key>latitud</key>
-				<string>25.652095</string>
-				<key>longitud</key>
-				<string>-100.338885</string>
+				<real>-100.408187</real>
 			</dict>
 		</array>
 	</dict>
 	<dict>
+		<key>tableIdentifier</key>
+		<string>galeriastitle</string>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>sanjeronimo</string>
 		<key>servicio</key>
 		<string>Expreso Tec</string>
 		<key>ruta</key>
-		<string>Valle 2</string>
+		<string>San Jerónimo</string>
 		<key>latitudInicial</key>
-		<string>25.652751</string>
+		<real>25.652751</real>
 		<key>longitudInicial</key>
-		<string>-100.290467</string>
+		<real>-100.290467</real>
 		<key>dispositivo</key>
 		<string></string>
 		<key>pings</key>
@@ -350,77 +300,79 @@
 				<key>titulo</key>
 				<string>Tecnológico de Monterrey</string>
 				<key>latitud</key>
-				<string>25.652751</string>
+				<real>25.652751</real>
 				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.290467</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
+				<string>CUM (Av. Gonzalitos)</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.677488</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.352503</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Sierra Azul</string>
+				<string>Estacionamiento Galerías Monterrey</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.681689</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
+				<real>-100.356128</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
+				<string>Alan Poe (OXXO)</string>
 				<key>latitud</key>
-				<string>25.635162</string>
+				<real>25.685798</real>
 				<key>longitud</key>
-				<string>-100.370015</string>
+				<real>-100.36479</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Planetario Alfa</string>
+				<string>Av. San Jemo (Seven)</string>
 				<key>latitud</key>
-				<string>25.635151</string>
+				<real>25.681354</real>
 				<key>longitud</key>
-				<string>-100.358632</string>
+				<real>-100.370408</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Alejandría</string>
+				<string>Antonio Caso</string>
 				<key>latitud</key>
-				<string>25.630531</string>
+				<real>25.686788</real>
 				<key>longitud</key>
-				<string>-100.335510</string>
+				<real>-100.369883</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lampazos</string>
+				<string>Jean Racine</string>
 				<key>latitud</key>
-				<string>25.645012</string>
+				<real>25.689337</real>
 				<key>longitud</key>
-				<string>-100.338939</string>
+				<real>-100.372356</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<string>Alfonso Junco</string>
 				<key>latitud</key>
-				<string>25.652095</string>
+				<real>25.695408</real>
 				<key>longitud</key>
-				<string>-100.338885</string>
+				<real>-100.372073</real>
 			</dict>
 		</array>
 	</dict>
 	<dict>
+		<key>tableIdentifier</key>
+		<string>cumbres</string>
 		<key>servicio</key>
 		<string>Expreso Tec</string>
 		<key>ruta</key>
-		<string>Valle 2</string>
+		<string>Cumbres</string>
 		<key>latitudInicial</key>
-		<string>25.652751</string>
+		<real>25.652751</real>
 		<key>longitudInicial</key>
-		<string>-100.290467</string>
+		<real>-100.290467</real>
 		<key>dispositivo</key>
 		<string></string>
 		<key>pings</key>
@@ -429,398 +381,103 @@
 				<key>titulo</key>
 				<string>Tecnológico de Monterrey</string>
 				<key>latitud</key>
-				<string>25.652751</string>
+				<real>25.652751</real>
 				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.290467</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
+				<string>Cínica Ricardo Madla</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.694102</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.354688</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Sierra Azul</string>
+				<string>Parque Av. Enrique C. Livas y 7a. Avenida</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.695475</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
+				<real>-100.357327</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
+				<string>Vip´s</string>
 				<key>latitud</key>
-				<string>25.635162</string>
+				<real>25.699742</real>
 				<key>longitud</key>
-				<string>-100.370015</string>
+				<real>-100.36304</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Planetario Alfa</string>
+				<string>Paseo de la Cima (Starbucks)</string>
 				<key>latitud</key>
-				<string>25.635151</string>
+				<real>25.712018</real>
 				<key>longitud</key>
-				<string>-100.358632</string>
+				<real>-100.377657</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Alejandría</string>
+				<string>Eric el Rojo (Super 7)</string>
 				<key>latitud</key>
-				<string>25.630531</string>
+				<real>25.715994</real>
 				<key>longitud</key>
-				<string>-100.335510</string>
+				<real>-100.383025</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lampazos</string>
+				<string>Paseo de los Navegantes / Rotonda de las Casas</string>
 				<key>latitud</key>
-				<string>25.645012</string>
+				<real>25.720222</real>
 				<key>longitud</key>
-				<string>-100.338939</string>
+				<real>-100.388595</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<string>Diamant (Super 7)</string>
 				<key>latitud</key>
-				<string>25.652095</string>
+				<real>25.724359</real>
 				<key>longitud</key>
-				<string>-100.338885</string>
-			</dict>
-		</array>
-	</dict>
-	<string>SanNicolas</string>
-	<dict>
-		<key>servicio</key>
-		<string>Expreso Tec</string>
-		<key>ruta</key>
-		<string>Valle 2</string>
-		<key>latitudInicial</key>
-		<string>25.652751</string>
-		<key>longitudInicial</key>
-		<string>-100.290467</string>
-		<key>dispositivo</key>
-		<string></string>
-		<key>pings</key>
-		<array>
-			<dict>
-				<key>titulo</key>
-				<string>Tecnológico de Monterrey</string>
-				<key>latitud</key>
-				<string>25.652751</string>
-				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.394391</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
+				<string>HEB</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.731323</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.397416</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>Sierra Azul</string>
+				<string>Cumbres Elite</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.741611</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
+				<real>-100.40604</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
+				<string>Cambridge</string>
 				<key>latitud</key>
-				<string>25.635162</string>
+				<real>25.746051</real>
 				<key>longitud</key>
-				<string>-100.370015</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Planetario Alfa</string>
-				<key>latitud</key>
-				<string>25.635151</string>
-				<key>longitud</key>
-				<string>-100.358632</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Alejandría</string>
-				<key>latitud</key>
-				<string>25.630531</string>
-				<key>longitud</key>
-				<string>-100.335510</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Av. Lampazos</string>
-				<key>latitud</key>
-				<string>25.645012</string>
-				<key>longitud</key>
-				<string>-100.338939</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
-				<key>latitud</key>
-				<string>25.652095</string>
-				<key>longitud</key>
-				<string>-100.338885</string>
-			</dict>
-		</array>
-	</dict>
-	<string>Guadalupe</string>
-	<dict>
-		<key>servicio</key>
-		<string>Expreso Tec</string>
-		<key>ruta</key>
-		<string>Valle 2</string>
-		<key>latitudInicial</key>
-		<string>25.652751</string>
-		<key>longitudInicial</key>
-		<string>-100.290467</string>
-		<key>dispositivo</key>
-		<string></string>
-		<key>pings</key>
-		<array>
-			<dict>
-				<key>titulo</key>
-				<string>Tecnológico de Monterrey</string>
-				<key>latitud</key>
-				<string>25.652751</string>
-				<key>longitud</key>
-				<string>-100.290467</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
-				<key>latitud</key>
-				<string>25.650840</string>
-				<key>longitud</key>
-				<string>-100.378424</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Sierra Azul</string>
-				<key>latitud</key>
-				<string>25.638183</string>
-				<key>longitud</key>
-				<string>-100.380206</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
-				<key>latitud</key>
-				<string>25.635162</string>
-				<key>longitud</key>
-				<string>-100.370015</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Planetario Alfa</string>
-				<key>latitud</key>
-				<string>25.635151</string>
-				<key>longitud</key>
-				<string>-100.358632</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Alejandría</string>
-				<key>latitud</key>
-				<string>25.630531</string>
-				<key>longitud</key>
-				<string>-100.335510</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Av. Lampazos</string>
-				<key>latitud</key>
-				<string>25.645012</string>
-				<key>longitud</key>
-				<string>-100.338939</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
-				<key>latitud</key>
-				<string>25.652095</string>
-				<key>longitud</key>
-				<string>-100.338885</string>
-			</dict>
-		</array>
-	</dict>
-	<string>CircuitoTec</string>
-	<string>Diurno</string>
-	<dict>
-		<key>servicio</key>
-		<string>Expreso Tec</string>
-		<key>ruta</key>
-		<string>Valle 2</string>
-		<key>latitudInicial</key>
-		<string>25.652751</string>
-		<key>longitudInicial</key>
-		<string>-100.290467</string>
-		<key>dispositivo</key>
-		<string></string>
-		<key>pings</key>
-		<array>
-			<dict>
-				<key>titulo</key>
-				<string>Tecnológico de Monterrey</string>
-				<key>latitud</key>
-				<string>25.652751</string>
-				<key>longitud</key>
-				<string>-100.290467</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
-				<key>latitud</key>
-				<string>25.650840</string>
-				<key>longitud</key>
-				<string>-100.378424</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Sierra Azul</string>
-				<key>latitud</key>
-				<string>25.638183</string>
-				<key>longitud</key>
-				<string>-100.380206</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
-				<key>latitud</key>
-				<string>25.635162</string>
-				<key>longitud</key>
-				<string>-100.370015</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Planetario Alfa</string>
-				<key>latitud</key>
-				<string>25.635151</string>
-				<key>longitud</key>
-				<string>-100.358632</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Alejandría</string>
-				<key>latitud</key>
-				<string>25.630531</string>
-				<key>longitud</key>
-				<string>-100.335510</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Av. Lampazos</string>
-				<key>latitud</key>
-				<string>25.645012</string>
-				<key>longitud</key>
-				<string>-100.338939</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
-				<key>latitud</key>
-				<string>25.652095</string>
-				<key>longitud</key>
-				<string>-100.338885</string>
-			</dict>
-		</array>
-	</dict>
-	<string>Nocturno</string>
-	<dict>
-		<key>servicio</key>
-		<string>Expreso Tec</string>
-		<key>ruta</key>
-		<string>Valle 2</string>
-		<key>latitudInicial</key>
-		<string>25.652751</string>
-		<key>longitudInicial</key>
-		<string>-100.290467</string>
-		<key>dispositivo</key>
-		<string></string>
-		<key>pings</key>
-		<array>
-			<dict>
-				<key>titulo</key>
-				<string>Tecnológico de Monterrey</string>
-				<key>latitud</key>
-				<string>25.652751</string>
-				<key>longitud</key>
-				<string>-100.290467</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Av. Lomas del Valle</string>
-				<key>latitud</key>
-				<string>25.650840</string>
-				<key>longitud</key>
-				<string>-100.378424</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Sierra Azul</string>
-				<key>latitud</key>
-				<string>25.638183</string>
-				<key>longitud</key>
-				<string>-100.380206</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>El Ángel (San Ángel)</string>
-				<key>latitud</key>
-				<string>25.635162</string>
-				<key>longitud</key>
-				<string>-100.370015</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Planetario Alfa</string>
-				<key>latitud</key>
-				<string>25.635151</string>
-				<key>longitud</key>
-				<string>-100.358632</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Alejandría</string>
-				<key>latitud</key>
-				<string>25.630531</string>
-				<key>longitud</key>
-				<string>-100.335510</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Av. Lampazos</string>
-				<key>latitud</key>
-				<string>25.645012</string>
-				<key>longitud</key>
-				<string>-100.338939</string>
-			</dict>
-			<dict>
-				<key>titulo</key>
-				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
-				<key>latitud</key>
-				<string>25.652095</string>
-				<key>longitud</key>
-				<string>-100.338885</string>
+				<real>-100.413082</real>
 			</dict>
 		</array>
 	</dict>
 	<dict>
+		<key>tableIdentifier</key>
+		<string>lincoln</string>
 		<key>servicio</key>
 		<string>Expreso Tec</string>
 		<key>ruta</key>
-		<string>Valle 2</string>
+		<string>Lincoln</string>
 		<key>latitudInicial</key>
-		<string>25.652751</string>
+		<real>25.652751</real>
 		<key>longitudInicial</key>
-		<string>-100.290467</string>
+		<real>-100.290467</real>
 		<key>dispositivo</key>
 		<string></string>
 		<key>pings</key>
@@ -829,77 +486,83 @@
 				<key>titulo</key>
 				<string>Tecnológico de Monterrey</string>
 				<key>latitud</key>
-				<string>25.652751</string>
+				<real>25.652751</real>
 				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.290467</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Av. Lomas del Valle</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.65084</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.378424</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Sierra Azul</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.638183</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
+				<real>-100.380206</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>El Ángel (San Ángel)</string>
 				<key>latitud</key>
-				<string>25.635162</string>
+				<real>25.635162</real>
 				<key>longitud</key>
-				<string>-100.370015</string>
+				<real>-100.370015</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Planetario Alfa</string>
 				<key>latitud</key>
-				<string>25.635151</string>
+				<real>25.635151</real>
 				<key>longitud</key>
-				<string>-100.358632</string>
+				<real>-100.358632</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Alejandría</string>
 				<key>latitud</key>
-				<string>25.630531</string>
+				<real>25.630531</real>
 				<key>longitud</key>
-				<string>-100.335510</string>
+				<real>-100.33551</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Av. Lampazos</string>
 				<key>latitud</key>
-				<string>25.645012</string>
+				<real>25.645012</real>
 				<key>longitud</key>
-				<string>-100.338939</string>
+				<real>-100.338939</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
 				<key>latitud</key>
-				<string>25.652095</string>
+				<real>25.652095</real>
 				<key>longitud</key>
-				<string>-100.338885</string>
+				<real>-100.338885</real>
 			</dict>
 		</array>
 	</dict>
 	<dict>
+		<key>tableIdentifier</key>
+		<string>sannicolastitle</string>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>sannicolas</string>
 		<key>servicio</key>
 		<string>Expreso Tec</string>
 		<key>ruta</key>
-		<string>Valle 2</string>
+		<string>San Nicolás</string>
 		<key>latitudInicial</key>
-		<string>25.652751</string>
+		<real>25.652751</real>
 		<key>longitudInicial</key>
-		<string>-100.290467</string>
+		<real>-100.290467</real>
 		<key>dispositivo</key>
 		<string></string>
 		<key>pings</key>
@@ -908,65 +571,486 @@
 				<key>titulo</key>
 				<string>Tecnológico de Monterrey</string>
 				<key>latitud</key>
-				<string>25.652751</string>
+				<real>25.652751</real>
 				<key>longitud</key>
-				<string>-100.290467</string>
+				<real>-100.290467</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Av. Lomas del Valle</string>
 				<key>latitud</key>
-				<string>25.650840</string>
+				<real>25.65084</real>
 				<key>longitud</key>
-				<string>-100.378424</string>
+				<real>-100.378424</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Sierra Azul</string>
 				<key>latitud</key>
-				<string>25.638183</string>
+				<real>25.638183</real>
 				<key>longitud</key>
-				<string>-100.380206</string>
+				<real>-100.380206</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>El Ángel (San Ángel)</string>
 				<key>latitud</key>
-				<string>25.635162</string>
+				<real>25.635162</real>
 				<key>longitud</key>
-				<string>-100.370015</string>
+				<real>-100.370015</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Planetario Alfa</string>
 				<key>latitud</key>
-				<string>25.635151</string>
+				<real>25.635151</real>
 				<key>longitud</key>
-				<string>-100.358632</string>
+				<real>-100.358632</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Alejandría</string>
 				<key>latitud</key>
-				<string>25.630531</string>
+				<real>25.630531</real>
 				<key>longitud</key>
-				<string>-100.335510</string>
+				<real>-100.33551</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Av. Lampazos</string>
 				<key>latitud</key>
-				<string>25.645012</string>
+				<real>25.645012</real>
 				<key>longitud</key>
-				<string>-100.338939</string>
+				<real>-100.338939</real>
 			</dict>
 			<dict>
 				<key>titulo</key>
 				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
 				<key>latitud</key>
-				<string>25.652095</string>
+				<real>25.652095</real>
 				<key>longitud</key>
-				<string>-100.338885</string>
+				<real>-100.338885</real>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>guadalupetitle</string>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>contrylindavista</string>
+		<key>servicio</key>
+		<string>Expreso Tec</string>
+		<key>ruta</key>
+		<string>Contry Linda Vista</string>
+		<key>latitudInicial</key>
+		<real>25.652751</real>
+		<key>longitudInicial</key>
+		<real>-100.290467</real>
+		<key>dispositivo</key>
+		<string></string>
+		<key>pings</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Tecnológico de Monterrey</string>
+				<key>latitud</key>
+				<real>25.652751</real>
+				<key>longitud</key>
+				<real>-100.290467</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lomas del Valle</string>
+				<key>latitud</key>
+				<real>25.65084</real>
+				<key>longitud</key>
+				<real>-100.378424</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Sierra Azul</string>
+				<key>latitud</key>
+				<real>25.638183</real>
+				<key>longitud</key>
+				<real>-100.380206</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>El Ángel (San Ángel)</string>
+				<key>latitud</key>
+				<real>25.635162</real>
+				<key>longitud</key>
+				<real>-100.370015</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Planetario Alfa</string>
+				<key>latitud</key>
+				<real>25.635151</real>
+				<key>longitud</key>
+				<real>-100.358632</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Alejandría</string>
+				<key>latitud</key>
+				<real>25.630531</real>
+				<key>longitud</key>
+				<real>-100.33551</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lampazos</string>
+				<key>latitud</key>
+				<real>25.645012</real>
+				<key>longitud</key>
+				<real>-100.338939</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<key>latitud</key>
+				<real>25.652095</real>
+				<key>longitud</key>
+				<real>-100.338885</real>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>circuitotectitle</string>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>diurnotitle</string>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>garzasada</string>
+		<key>servicio</key>
+		<string>Expreso Tec</string>
+		<key>ruta</key>
+		<string>Garza Sada</string>
+		<key>latitudInicial</key>
+		<real>25.652751</real>
+		<key>longitudInicial</key>
+		<real>-100.290467</real>
+		<key>dispositivo</key>
+		<string></string>
+		<key>pings</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Tecnológico de Monterrey</string>
+				<key>latitud</key>
+				<real>25.652751</real>
+				<key>longitud</key>
+				<real>-100.290467</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lomas del Valle</string>
+				<key>latitud</key>
+				<real>25.65084</real>
+				<key>longitud</key>
+				<real>-100.378424</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Sierra Azul</string>
+				<key>latitud</key>
+				<real>25.638183</real>
+				<key>longitud</key>
+				<real>-100.380206</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>El Ángel (San Ángel)</string>
+				<key>latitud</key>
+				<real>25.635162</real>
+				<key>longitud</key>
+				<real>-100.370015</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Planetario Alfa</string>
+				<key>latitud</key>
+				<real>25.635151</real>
+				<key>longitud</key>
+				<real>-100.358632</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Alejandría</string>
+				<key>latitud</key>
+				<real>25.630531</real>
+				<key>longitud</key>
+				<real>-100.33551</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lampazos</string>
+				<key>latitud</key>
+				<real>25.645012</real>
+				<key>longitud</key>
+				<real>-100.338939</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<key>latitud</key>
+				<real>25.652095</real>
+				<key>longitud</key>
+				<real>-100.338885</real>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>nocturnotitle</string>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>rutaA</string>
+		<key>servicio</key>
+		<string>Circuito Tec</string>
+		<key>ruta</key>
+		<string>Ruta A</string>
+		<key>latitudInicial</key>
+		<real>25.652751</real>
+		<key>longitudInicial</key>
+		<real>-100.290467</real>
+		<key>dispositivo</key>
+		<string></string>
+		<key>pings</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Tecnológico de Monterrey</string>
+				<key>latitud</key>
+				<real>25.652751</real>
+				<key>longitud</key>
+				<real>-100.290467</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lomas del Valle</string>
+				<key>latitud</key>
+				<real>25.65084</real>
+				<key>longitud</key>
+				<real>-100.378424</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Sierra Azul</string>
+				<key>latitud</key>
+				<real>25.638183</real>
+				<key>longitud</key>
+				<real>-100.380206</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>El Ángel (San Ángel)</string>
+				<key>latitud</key>
+				<real>25.635162</real>
+				<key>longitud</key>
+				<real>-100.370015</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Planetario Alfa</string>
+				<key>latitud</key>
+				<real>25.635151</real>
+				<key>longitud</key>
+				<real>-100.358632</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Alejandría</string>
+				<key>latitud</key>
+				<real>25.630531</real>
+				<key>longitud</key>
+				<real>-100.33551</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lampazos</string>
+				<key>latitud</key>
+				<real>25.645012</real>
+				<key>longitud</key>
+				<real>-100.338939</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<key>latitud</key>
+				<real>25.652095</real>
+				<key>longitud</key>
+				<real>-100.338885</real>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>rutaB</string>
+		<key>servicio</key>
+		<string>Circuito Tec</string>
+		<key>ruta</key>
+		<string>Ruta B</string>
+		<key>latitudInicial</key>
+		<real>25.652751</real>
+		<key>longitudInicial</key>
+		<real>-100.290467</real>
+		<key>dispositivo</key>
+		<string></string>
+		<key>pings</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Tecnológico de Monterrey</string>
+				<key>latitud</key>
+				<real>25.652751</real>
+				<key>longitud</key>
+				<real>-100.290467</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lomas del Valle</string>
+				<key>latitud</key>
+				<real>25.65084</real>
+				<key>longitud</key>
+				<real>-100.378424</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Sierra Azul</string>
+				<key>latitud</key>
+				<real>25.638183</real>
+				<key>longitud</key>
+				<real>-100.380206</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>El Ángel (San Ángel)</string>
+				<key>latitud</key>
+				<real>25.635162</real>
+				<key>longitud</key>
+				<real>-100.370015</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Planetario Alfa</string>
+				<key>latitud</key>
+				<real>25.635151</real>
+				<key>longitud</key>
+				<real>-100.358632</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Alejandría</string>
+				<key>latitud</key>
+				<real>25.630531</real>
+				<key>longitud</key>
+				<real>-100.33551</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lampazos</string>
+				<key>latitud</key>
+				<real>25.645012</real>
+				<key>longitud</key>
+				<real>-100.338939</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<key>latitud</key>
+				<real>25.652095</real>
+				<key>longitud</key>
+				<real>-100.338885</real>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>tableIdentifier</key>
+		<string>rutaC</string>
+		<key>servicio</key>
+		<string>Circuito Tec</string>
+		<key>ruta</key>
+		<string>Ruta C</string>
+		<key>latitudInicial</key>
+		<real>25.652751</real>
+		<key>longitudInicial</key>
+		<real>-100.290467</real>
+		<key>dispositivo</key>
+		<string></string>
+		<key>pings</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Tecnológico de Monterrey</string>
+				<key>latitud</key>
+				<real>25.652751</real>
+				<key>longitud</key>
+				<real>-100.290467</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lomas del Valle</string>
+				<key>latitud</key>
+				<real>25.65084</real>
+				<key>longitud</key>
+				<real>-100.378424</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Sierra Azul</string>
+				<key>latitud</key>
+				<real>25.638183</real>
+				<key>longitud</key>
+				<real>-100.380206</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>El Ángel (San Ángel)</string>
+				<key>latitud</key>
+				<real>25.635162</real>
+				<key>longitud</key>
+				<real>-100.370015</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Planetario Alfa</string>
+				<key>latitud</key>
+				<real>25.635151</real>
+				<key>longitud</key>
+				<real>-100.358632</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Alejandría</string>
+				<key>latitud</key>
+				<real>25.630531</real>
+				<key>longitud</key>
+				<real>-100.33551</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Av. Lampazos</string>
+				<key>latitud</key>
+				<real>25.645012</real>
+				<key>longitud</key>
+				<real>-100.338939</real>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Estacionamiento Plaza Fiesta San Agustìn</string>
+				<key>latitud</key>
+				<real>25.652095</real>
+				<key>longitud</key>
+				<real>-100.338885</real>
 			</dict>
 		</array>
 	</dict>

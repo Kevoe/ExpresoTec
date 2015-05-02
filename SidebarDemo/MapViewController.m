@@ -55,77 +55,29 @@
     if (self.detailItem) {
         
         //Titulo
-        //self.title = [self.detailItem objectForKey:@"ruta"];
-        self.title = @"valle2";
-        
+        self.title = [self.detailItem objectForKey:@"ruta"];
         
         //Coordenadas iniciales
         CLLocationCoordinate2D initialLocation;
-        initialLocation.latitude = 25.652751;
-        initialLocation.longitude = -100.290467;
+        initialLocation.latitude = [[self.detailItem objectForKey:@"latitudInicial"] doubleValue];
+        initialLocation.longitude = [[self.detailItem objectForKey:@"longitudInicial"] doubleValue];
         MKCoordinateRegion region = MKCoordinateRegionMakeWithDistance(initialLocation, 5000, 5000);
         [self.mapView setRegion:region animated:YES];
         
         //Pins/Anotaciones
         // Add an annotation
+        NSArray *pines = [[NSArray alloc] initWithArray:[self.detailItem objectForKey:@"pings"]];
+        
         CLLocationCoordinate2D ping;
         
-        MKPointAnnotation *point1 = [[MKPointAnnotation alloc] init];
-        ping.latitude = 25.650840;
-        ping.longitude = -100.378424;
-        point1.coordinate = ping;
-        point1.title = @"Av. Lomas del Valle";
-        
-        MKPointAnnotation *point2 = [[MKPointAnnotation alloc] init];
-        ping.latitude = 25.638183;
-        ping.longitude = -100.380206;
-        point2.coordinate = ping;
-        point2.title = @"Sierra Azul";
-        
-        MKPointAnnotation *point3 = [[MKPointAnnotation alloc] init];
-        ping.latitude = 25.635162;
-        ping.longitude = -100.370015;
-        point3.coordinate = ping;
-        point3.title = @"El Ángel (San Ángel)";
-        
-        MKPointAnnotation *point4 = [[MKPointAnnotation alloc] init];
-        ping.latitude = 25.635151;
-        ping.longitude = -100.358632;
-        point4.coordinate = ping;
-        point4.title = @"Planetario Alfa";
-        
-        MKPointAnnotation *point5 = [[MKPointAnnotation alloc] init];
-        ping.latitude = 25.630531;
-        ping.longitude = -100.335510;
-        point5.coordinate = ping;
-        point5.title = @"Alejandría";
-        
-        MKPointAnnotation *point6 = [[MKPointAnnotation alloc] init];
-        ping.latitude = 25.645012;
-        ping.longitude = -100.338939;
-        point6.coordinate = ping;
-        point6.title = @"Av. Lampazos";
-        
-        MKPointAnnotation *point7 = [[MKPointAnnotation alloc] init];
-        ping.latitude = 25.652095;
-        ping.longitude = -100.338885;
-        point7.coordinate = ping;
-        point7.title = @"Estacionamiento Plaza Fiesta San Agustìn";
-        
-        MKPointAnnotation *point8 = [[MKPointAnnotation alloc] init];
-        ping.latitude = 25.652751;
-        ping.longitude = -100.290467;
-        point8.coordinate = ping;
-        point8.title = @"Tecnológico de Monterrey";
-        
-        [self.mapView addAnnotation:point1];
-        [self.mapView addAnnotation:point2];
-        [self.mapView addAnnotation:point3];
-        [self.mapView addAnnotation:point4];
-        [self.mapView addAnnotation:point5];
-        [self.mapView addAnnotation:point6];
-        [self.mapView addAnnotation:point7];
-        [self.mapView addAnnotation:point8];
+        for(id object in pines){
+            MKPointAnnotation *point = [[MKPointAnnotation alloc] init];
+            ping.latitude = [[object objectForKey:@"latitud"] doubleValue];
+            ping.longitude = [[object objectForKey:@"longitud"] doubleValue];
+            point.coordinate = ping;
+            point.title = [object objectForKey:@"titulo"];
+            [self.mapView addAnnotation:point];
+        }
     }
 }
 
